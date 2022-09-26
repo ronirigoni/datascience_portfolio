@@ -2,9 +2,7 @@
 
 | Informações |     |
 | ----------- | --- |
-| [LinkedIn](https://www.linkedin.com/in/ronirigoni/) 
-	<br> [GitHub](https://github.com/ronirigoni)
-	<br> | ![RoniRigoni.jpg](./assets/RoniRigoni.jpg) |
+| [LinkedIn](https://www.linkedin.com/in/ronirigoni/) <br> [GitHub](https://github.com/ronirigoni) <br> | ![RoniRigoni.jpg](./assets/RoniRigoni.jpg) |
 
 <table>
   <tbody>
