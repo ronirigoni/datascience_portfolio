@@ -1,7 +1,12 @@
 # Roni Rigoni - Portfólio
 
-| --- | --- |
-| ![RoniRigoni.jpg](./assets/RoniRigoni.jpg) | [ronirigoni@gmail.com](mailto:ronirigoni@gmail.com) <br> [LinkedIn](https://www.linkedin.com/in/ronirigoni/) <br> [GitHub](https://github.com/ronirigoni) <br> | 
+<table>
+<tr>![RoniRigoni.jpg](./assets/RoniRigoni.jpg)<tr>
+<tr>[ronirigoni@gmail.com](mailto:ronirigoni@gmail.com)
+	<br>[LinkedIn](https://www.linkedin.com/in/ronirigoni/)
+	<br>[GitHub](https://github.com/ronirigoni)
+</tr>	
+</table>
 
 Olá! Aqui você encontra os meus projetos pessoais de Ciência de Dados:
 
