@@ -1,4 +1,11 @@
-<h1 align="center">Roni Rigoni</h1>
+# Roni Rigoni - Portfólio
+
+| Informações |     |
+| ----------- | --- |
+| [LinkedIn](https://www.linkedin.com/in/ronirigoni/) 
+	<br> [GitHub](https://github.com/ronirigoni)
+	<br> | ![RoniRigoni.jpg](./assets/RoniRigoni.jpg) |
+
 <table>
   <tbody>
     <tr>
@@ -10,10 +17,9 @@
     <tr>
       <td>
         <ul>
-          <li>email: ronirigoni@gmail.com</li>
-          <li>LinkedIn: <a href="./pages/links.md">Links</a></li>
-		  <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronirigoni/)</li>
-		  <li>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronirigoni)</li>
+          <li>ronirigoni@gmail.com</li>
+		  <li>[LinkedIn](https://www.linkedin.com/in/ronirigoni/)</li>
+		  <li>[GitHub](https://github.com/ronirigoni)</li>
         </ul>
       </td>
     </tr>
