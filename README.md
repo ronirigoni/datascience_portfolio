@@ -1,6 +1,7 @@
 # Roni Rigoni - Data Science Portfolio
 
 Hello! Here you can find the Data Science projects I've worked on:
+
 *Olá! Aqui você encontra os projetos de Ciência de Dados que desenvolvi:*
 
 ## House Price Prediction (*Preditor de Preços de Casas*)
