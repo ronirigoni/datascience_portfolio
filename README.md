@@ -1,13 +1,6 @@
-# Roni Rigoni - Portfólio
+# Roni Rigoni - Portfólio de Ciência de Dados
 
-Olá! Aqui você encontra os meus projetos pessoais de Ciência de Dados.
-
-
-## Sobre Mim
-
-- [LinkedIn](https://www.linkedin.com/in/ronirigoni/)
-- [GitHub](https://github.com/ronirigoni)
-- [ronirigoni@gmail.com](mailto:ronirigoni@gmail.com)
+Olá! Aqui você encontra os meus projetos pessoais de Ciência de Dados. Para mais informações sobre mim, visite meu [LinkedIn](https://www.linkedin.com/in/ronirigoni/).
 
 
 ## Projetos
@@ -18,7 +11,7 @@ Olá! Aqui você encontra os meus projetos pessoais de Ciência de Dados.
 - Teste On-line: [https://ronirigoni.github.io/ds_preditor_preco_casas/](https://ronirigoni.github.io/ds_preditor_preco_casas/)
 - Tópicos: *Machine Learning; Linear Regression; Web Scraping; Python.*
 
-Neste projeto eu criei um preditor de preços de casas para a cidade de Palmas - TO. Os dados utilizados para treinar o modelo foram coletados diretamente do site www.zapimoveis.com.br, através de um script python. O preditor tem como entradas: Área construída da casa; Quantidade de quartos; Quantidade de banheiros; Quantidade de garagens e o Endereço (que deve ser da cidade de Palmas). Através de um regressão linear, o modelo retorna o preço previsto para a casa.
+Neste projeto eu criei um preditor de preços de casas para a cidade de Palmas - TO. Os dados utilizados para treinar o modelo foram coletados diretamente do site www.zapimoveis.com.br, através de um script python. O preditor tem como entradas: Área construída da casa; Quantidade de quartos; Quantidade de banheiros; Quantidade de garagens e o Endereço (que deve ser da cidade de Palmas). Através de uma regressão linear, o modelo retorna o preço previsto para a casa.
 
 
 ### Recomendador de Filmes do Imdb
