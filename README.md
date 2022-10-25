@@ -12,7 +12,7 @@ Olá! Aqui você encontra os meus projetos pessoais de Ciência de Dados. Para m
 
 Neste projeto criamos um classificador de dígitos (de 0 a 9) para a linguagem de sinais americana (*ASL - American Sign Language*). Para isso utilizamos uma base de dados de 5.000 imagens disponível no Kaggle ([aqui](https://www.kaggle.com/datasets/rayeed045/american-sign-language-digit-dataset)) para treinar uma rede neural. O modelo desenvolvido atingiu uma acurácia de 99,10%.
 
-[Resultado do Modelo ASL](/imagens/resultado_meus_sinais.png)
+![Resultado do Modelo ASL](/imagens/resultado_meus_sinais.png)
 
 
 ### Preditor de Preços de Casas (Palmas - TO)
